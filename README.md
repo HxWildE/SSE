@@ -59,4 +59,4 @@ const reader = response.body.getReader();
 // ... loop to read chunks, parse the buffer by \n\n, and extract JSON
 ```
 This parsed data is then used to update the DOM elements and draw the dynamic `<canvas>` line chart.
-"# SSE" 
+
